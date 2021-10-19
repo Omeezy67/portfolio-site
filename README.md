@@ -1,4 +1,5 @@
 # Portfolio Sample Site
+<img width="1590" alt="Portfolio Sample Site" src="https://user-images.githubusercontent.com/67935136/137823488-986d5532-c0c0-4f1a-b237-8d25a4e4fd54.png">
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.10.
 
