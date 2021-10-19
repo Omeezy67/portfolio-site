@@ -1,27 +1,29 @@
 <header>
     <div class="container">
         <div class="row">
-            <div class="col-sm-12">
+            <div class="col-sm-12 p-flex p-flex-align-center p-flex-jc-sb">
                 <ul>
-                    <li>
-
+                    <li id="bars" class="fa fa-bars">
+                        <!-- <span></span>
+                        <span></span>
+                        <span></span> -->
                     </li>
-                    <li>
+                    <li class="p-cursor" id="search" class="fa fa-search">
 
                     </li>
                 </ul>
                 <ul>
                     <li>
-                        <a>Home</a>
+                        <a href="#" [routerLink]="['/']" [routerLinkActive]="['is-active']">Home</a>
                     </li>
                     <li>
-                        <a>About</a>
+                        <a href="#">About</a>
                     </li>
                     <li>
-                        <a>Portfolio</a>
+                        <a href="#">Portfolio</a>
                     </li>
                     <li>
-                        <a>Reach</a>
+                        <a href="#">Reach</a>
                     </li>
                 </ul>
             </div>
